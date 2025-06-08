@@ -1,0 +1,25 @@
+{
+    "name": "kitbur/ruby-text",
+    "description": "Enables ruby text annotations in forum posts with BBCode.",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.8"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Ruby Text",
+            "category": "formatting",
+            "icon": {
+                "name": "fas fa-text-height",
+                "color": "#ffffff",
+                "backgroundColor": "#6a5acd"
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Kitbur\\RubyText\\": "src/"
+        }
+    }
+}

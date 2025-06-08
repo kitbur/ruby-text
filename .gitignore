@@ -1,0 +1,10 @@
+/vendor/
+/node_modules/
+/dist/
+*.log
+!/src/**/en.yml
+!/locale/**/en.yml
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
