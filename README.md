@@ -5,23 +5,21 @@
 
 A Flarum extension that allows the use of ruby text in forum posts using BBCode. Ruby is commonly used for phonetic guides or brief annotative notes that render above text.
 
-![Screenshot of the Ruby Text extension](https://i.imgur.com/EZ9MVUu.png)
-
 ### Features
 
 - Adds a `[ruby]` BBCode for text annotations.
 
 ### Usage
 
-**Example BBCode syntax:**
+Forum post syntax:
 
 ```bbcode
 This is some [ruby=top text]annotated[/ruby] text.
 ```
 
-**How it will look:**
+Here's how it looks:
 
-This is some <ruby>annotated<rt>top text</rt></ruby> text.
+![Screenshot of the Ruby Text extension](docs/screenshots/ruby-text-demo.png)
 
 ### Installation
 
@@ -33,7 +31,7 @@ composer require kitbur/ruby-text
 
 - [Packagist](https://packagist.org/packages/kitbur/ruby-text)
 - [GitHub](https://github.com/kitbur/ruby-text)
-<!-- - [Flarum Community](#) -->
+- [Flarum Community](https://discuss.flarum.org/d/37564-ruby-text-add-annotation-text-to-your-forum-posts)
 
 ---
 
