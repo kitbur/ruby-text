@@ -32,6 +32,7 @@ composer require kitbur/ruby-text
 - [Packagist](https://packagist.org/packages/kitbur/ruby-text)
 - [GitHub](https://github.com/kitbur/ruby-text)
 - [Flarum Community](https://discuss.flarum.org/d/37564-ruby-text-add-annotation-text-to-your-forum-posts)
+- [Flarum Extension](https://flarum.org/extension/kitbur/ruby-text)
 
 ---
 
