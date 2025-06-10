@@ -19,7 +19,7 @@ This is some [ruby=top text]annotated[/ruby] text.
 
 Here's how it looks:
 
-![Screenshot of the Ruby Text extension](docs/screenshots/ruby-text-demo.png)
+![Screenshot of the Ruby Text extension](https://raw.githubusercontent.com/kitbur/ruby-text/main/docs/screenshots/ruby-text-demo.png)
 
 ### Installation
 
